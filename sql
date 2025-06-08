@@ -1,2 +1,2 @@
-hi 
-ythis is sql
+how r u
+git commit -m "c" sql
